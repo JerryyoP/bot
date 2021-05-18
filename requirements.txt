@@ -1,2 +1,2 @@
 Telethon
-Dotenv
+dotenv
